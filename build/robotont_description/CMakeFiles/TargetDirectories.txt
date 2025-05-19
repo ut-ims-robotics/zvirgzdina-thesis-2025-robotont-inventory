@@ -1,0 +1,9 @@
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/uninstall.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/robotont_description_uninstall.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/test.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/edit_cache.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/rebuild_cache.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/list_install_components.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/install.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/install/local.dir
+/home/peko/colcon_ws/build/robotont_description/CMakeFiles/install/strip.dir

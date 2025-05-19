@@ -1,0 +1,19 @@
+// generated from rosidl_generator_c/resource/idl__type_support.c.em
+// with input from robotont_msgs:msg/LedModulePixel.idl
+// generated code does not contain a copyright notice
+
+#include <string.h>
+
+#include "robotont_msgs/msg/detail/led_module_pixel__functions.h"
+#include "robotont_msgs/msg/detail/led_module_pixel__type_support.h"
+#include "robotont_msgs/msg/detail/led_module_pixel__struct.h"
+#include "rosidl_typesupport_interface/macros.h"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+#ifdef __cplusplus
+}
+#endif

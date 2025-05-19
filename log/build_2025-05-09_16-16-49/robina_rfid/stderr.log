@@ -1,0 +1,5 @@
+  File "/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid/step_publisher.py", line 6
+    class StepPublisherNod6+6e(Node):
+                            ^
+SyntaxError: invalid decimal literal
+

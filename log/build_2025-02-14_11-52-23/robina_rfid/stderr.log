@@ -1,0 +1,5 @@
+  File "/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid/rfid_reader.py", line 44
+    self.publisher_.publish(String(' '.join(self.tag_buffer))))
+                                                              ^
+SyntaxError: unmatched ')'
+

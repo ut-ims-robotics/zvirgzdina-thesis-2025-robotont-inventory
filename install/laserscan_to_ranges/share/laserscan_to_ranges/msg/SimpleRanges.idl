@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from laserscan_to_ranges/msg/SimpleRanges.msg
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Header.idl"
+
+module laserscan_to_ranges {
+  module msg {
+    @verbatim (language="comment", text=
+      "This msg defines a message for dividing laserscan into 3 separate ranges: left, front, and right")
+    struct SimpleRanges {
+      std_msgs::msg::Header header;
+
+      double left;
+
+      double front;
+
+      double right;
+    };
+  };
+};

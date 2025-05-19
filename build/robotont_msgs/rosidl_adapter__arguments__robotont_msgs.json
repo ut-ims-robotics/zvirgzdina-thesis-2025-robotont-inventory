@@ -1,0 +1,11 @@
+{
+  "package_name": "robotont_msgs",
+  "non_idl_tuples": [
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/ColorRGB.msg",
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/LedModulePixel.msg",
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/LedModuleSegment.msg",
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/LedModuleMode.msg",
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/PowerSupply.msg",
+    "/home/peko/colcon_ws/src/robotont/robotont_msgs:msg/LaserScanSplit.msg"
+  ]
+}

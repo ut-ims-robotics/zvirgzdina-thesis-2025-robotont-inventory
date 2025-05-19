@@ -1,0 +1,14 @@
+source;share/robotont_msgs/hook/cmake_prefix_path.ps1
+source;share/robotont_msgs/hook/cmake_prefix_path.dsv
+source;share/robotont_msgs/hook/cmake_prefix_path.sh
+source;share/robotont_msgs/hook/ld_library_path_lib.ps1
+source;share/robotont_msgs/hook/ld_library_path_lib.dsv
+source;share/robotont_msgs/hook/ld_library_path_lib.sh
+source;share/robotont_msgs/hook/pythonpath.ps1
+source;share/robotont_msgs/hook/pythonpath.dsv
+source;share/robotont_msgs/hook/pythonpath.sh
+source;share/robotont_msgs/local_setup.bash
+source;share/robotont_msgs/local_setup.dsv
+source;share/robotont_msgs/local_setup.ps1
+source;share/robotont_msgs/local_setup.sh
+source;share/robotont_msgs/local_setup.zsh

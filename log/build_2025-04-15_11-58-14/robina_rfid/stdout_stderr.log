@@ -1,0 +1,32 @@
+running egg_info
+writing ../../build/robina_rfid/robina_rfid.egg-info/PKG-INFO
+writing dependency_links to ../../build/robina_rfid/robina_rfid.egg-info/dependency_links.txt
+writing entry points to ../../build/robina_rfid/robina_rfid.egg-info/entry_points.txt
+writing requirements to ../../build/robina_rfid/robina_rfid.egg-info/requires.txt
+writing top-level names to ../../build/robina_rfid/robina_rfid.egg-info/top_level.txt
+reading manifest file '../../build/robina_rfid/robina_rfid.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/robina_rfid/robina_rfid.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robina_rfid/rfid_reader.py -> /home/peko/colcon_ws/build/robina_rfid/build/lib/robina_rfid
+copying robina_rfid/point_follower.py -> /home/peko/colcon_ws/build/robina_rfid/build/lib/robina_rfid
+running install
+running install_lib
+copying /home/peko/colcon_ws/build/robina_rfid/build/lib/robina_rfid/rfid_reader.py -> /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid
+copying /home/peko/colcon_ws/build/robina_rfid/build/lib/robina_rfid/point_follower.py -> /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid
+byte-compiling /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid/rfid_reader.py to rfid_reader.cpython-312.pyc
+byte-compiling /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid/point_follower.py to point_follower.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/robina_rfid/robina_rfid.egg-info to /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid-0.0.0-py3.12.egg-info
+running install_scripts
+Installing big_node script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing height_changer_node script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing marker_publisher script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing point_follower script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing rfid_reader script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing step_publisher script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+Installing tag_location_processor script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+writing list of installed files to '/home/peko/colcon_ws/build/robina_rfid/install.log'

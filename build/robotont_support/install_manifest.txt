@@ -1,0 +1,16 @@
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/launch/robotont_bringup.launch.py
+/home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/package_run_dependencies/robotont_support
+/home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/parent_prefix_path/robotont_support
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/ament_prefix_path.sh
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/ament_prefix_path.dsv
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/path.sh
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/path.dsv
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.bash
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.sh
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.zsh
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.dsv
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/package.dsv
+/home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/packages/robotont_support
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/cmake/robotont_supportConfig.cmake
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/cmake/robotont_supportConfig-version.cmake
+/home/peko/colcon_ws/install/robotont_support/share/robotont_support/package.xml

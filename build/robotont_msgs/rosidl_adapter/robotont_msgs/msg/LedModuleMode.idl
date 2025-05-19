@@ -1,0 +1,46 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robotont_msgs/msg/LedModuleMode.msg
+// generated code does not contain a copyright notice
+
+
+module robotont_msgs {
+  module msg {
+    module LedModuleMode_Constants {
+      @verbatim (language="comment", text=
+        "Parameters: -")
+      const uint8 NONE = 0;
+      @verbatim (language="comment", text=
+        "Parameters: r, g, b, speed")
+      const uint8 SPIN = 1;
+      @verbatim (language="comment", text=
+        "Parameters: r, g, b, speed")
+      const uint8 PULSE = 2;
+      @verbatim (language="comment", text=
+        "Parameters: speed")
+      const uint8 COLORS_SMOOTH = 3;
+      @verbatim (language="comment", text=
+        "Parameters: speed")
+      const uint8 WHEEL_COLORS = 4;
+      @verbatim (language="comment", text=
+        "Parameters: -")
+      const uint8 COLORS_RGB = 5;
+      @verbatim (language="comment", text=
+        "Parameters: speed")
+      const uint8 COLORS_SPIN = 6;
+      @verbatim (language="comment", text=
+        "Parameters: -")
+      const uint8 MOTOR_DUTY = 7;
+      @verbatim (language="comment", text=
+        "Parameters: -")
+      const uint8 MOTOR_SPEEDS = 8;
+      @verbatim (language="comment", text=
+        "Parameters: left, right, front")
+      const uint8 SCAN_RANGES = 9;
+    };
+    struct LedModuleMode {
+      uint8 mode;
+
+      sequence<int16> params;
+    };
+  };
+};

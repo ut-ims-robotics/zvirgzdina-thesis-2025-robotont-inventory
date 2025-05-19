@@ -1,0 +1,19 @@
+[0.680s] Invoking command in '/home/peko/colcon_ws/src/rfid/rfid-sdk-python-main': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/peko/colcon_ws/build/metratec_rfid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/peko/colcon_ws/install/metratec_rfid/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/metratec_rfid build --build-base /home/peko/colcon_ws/build/metratec_rfid/build install --record /home/peko/colcon_ws/build/metratec_rfid/install.log --single-version-externally-managed
+[1.038s] running egg_info
+[1.065s] writing ../../../build/metratec_rfid/metratec_rfid.egg-info/PKG-INFO
+[1.068s] writing dependency_links to ../../../build/metratec_rfid/metratec_rfid.egg-info/dependency_links.txt
+[1.068s] writing requirements to ../../../build/metratec_rfid/metratec_rfid.egg-info/requires.txt
+[1.068s] writing top-level names to ../../../build/metratec_rfid/metratec_rfid.egg-info/top_level.txt
+[1.132s] reading manifest file '../../../build/metratec_rfid/metratec_rfid.egg-info/SOURCES.txt'
+[1.132s] adding license file 'LICENSE'
+[1.133s] writing manifest file '../../../build/metratec_rfid/metratec_rfid.egg-info/SOURCES.txt'
+[1.134s] running build
+[1.134s] running build_py
+[1.137s] running install
+[1.148s] running install_lib
+[1.184s] running install_egg_info
+[1.229s] removing '/home/peko/colcon_ws/install/metratec_rfid/lib/python3.12/site-packages/metratec_rfid-1.3.4-py3.12.egg-info' (and everything under it)
+[1.229s] Copying ../../../build/metratec_rfid/metratec_rfid.egg-info to /home/peko/colcon_ws/install/metratec_rfid/lib/python3.12/site-packages/metratec_rfid-1.3.4-py3.12.egg-info
+[1.231s] running install_scripts
+[1.481s] writing list of installed files to '/home/peko/colcon_ws/build/metratec_rfid/install.log'
+[1.613s] Invoked command in '/home/peko/colcon_ws/src/rfid/rfid-sdk-python-main' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/peko/colcon_ws/build/metratec_rfid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/peko/colcon_ws/install/metratec_rfid/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/metratec_rfid build --build-base /home/peko/colcon_ws/build/metratec_rfid/build install --record /home/peko/colcon_ws/build/metratec_rfid/install.log --single-version-externally-managed

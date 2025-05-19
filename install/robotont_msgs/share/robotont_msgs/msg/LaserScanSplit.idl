@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robotont_msgs/msg/LaserScanSplit.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module robotont_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "This msg defines a message for dividing laserscan into 3 separate distances" "\n"
+      "It provides mean and minimum values for the three sectors.")
+    struct LaserScanSplit {
+      builtin_interfaces::msg::Time stamp;
+
+      double left_min;
+
+      double center_min;
+
+      double right_min;
+
+      double left_mean;
+
+      double center_mean;
+
+      double right_mean;
+    };
+  };
+};

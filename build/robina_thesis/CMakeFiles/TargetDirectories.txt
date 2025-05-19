@@ -1,0 +1,9 @@
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/uninstall.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/robina_thesis_uninstall.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/test.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/edit_cache.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/rebuild_cache.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/list_install_components.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/install.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/install/local.dir
+/home/peko/colcon_ws/build/robina_thesis/CMakeFiles/install/strip.dir

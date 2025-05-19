@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/peko/colcon_ws/build/robotont_msgs/robotont_msgs__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "robotont_msgs::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "robotont_msgs__py::@2d6faf125a56ae2b9ae8",
+	"name" : "robotont_msgs__py",
+	"paths" : 
+	{
+		"build" : "robotont_msgs__py",
+		"source" : "/home/peko/colcon_ws/build/robotont_msgs/robotont_msgs__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/peko/colcon_ws/build/robotont_msgs/robotont_msgs__py/CMakeFiles/robotont_msgs__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/peko/colcon_ws/build/robotont_msgs/robotont_msgs__py/CMakeFiles/robotont_msgs__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/peko/colcon_ws/build/robotont_msgs/rosidl_generator_py/robotont_msgs/_robotont_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

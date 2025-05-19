@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robotont_msgs/msg/PowerSupply.msg
+// generated code does not contain a copyright notice
+
+
+module robotont_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "Measured current consumption ")
+    struct PowerSupply {
+      float current;
+
+      @verbatim (language="comment", text=
+        "Measured voltage level of the battery")
+      float voltage;
+
+      @verbatim (language="comment", text=
+        "Indicates whether e-stop button is pressed or not")
+      boolean estop_pressed;
+    };
+  };
+};

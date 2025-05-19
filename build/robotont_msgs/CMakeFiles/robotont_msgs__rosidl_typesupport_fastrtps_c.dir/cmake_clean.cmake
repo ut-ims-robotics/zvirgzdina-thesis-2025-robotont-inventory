@@ -1,0 +1,33 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/color_rgb__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/color_rgb__type_support_c.cpp.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/laser_scan_split__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/laser_scan_split__type_support_c.cpp.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_mode__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_mode__type_support_c.cpp.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_pixel__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_pixel__type_support_c.cpp.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_segment__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_segment__type_support_c.cpp.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/power_supply__type_support_c.cpp.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/power_supply__type_support_c.cpp.o.d"
+  "librobotont_msgs__rosidl_typesupport_fastrtps_c.pdb"
+  "librobotont_msgs__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/color_rgb__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/color_rgb__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/laser_scan_split__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/laser_scan_split__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_mode__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_mode__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_pixel__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_pixel__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_segment__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/led_module_segment__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/power_supply__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/robotont_msgs/msg/detail/power_supply__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/robotont_msgs__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

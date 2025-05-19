@@ -1,0 +1,11 @@
+{
+  "package_name": "laserscan_to_ranges",
+  "output_dir": "/home/peko/colcon_ws/build/laserscan_to_ranges/rosidl_generator_type_description/laserscan_to_ranges",
+  "idl_tuples": [
+    "/home/peko/colcon_ws/build/laserscan_to_ranges/rosidl_adapter/laserscan_to_ranges:msg/SimpleRanges.idl"
+  ],
+  "include_paths": [
+    "std_msgs:/opt/ros/jazzy/share/std_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

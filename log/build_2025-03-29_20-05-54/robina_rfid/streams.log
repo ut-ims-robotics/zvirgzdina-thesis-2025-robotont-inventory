@@ -1,0 +1,25 @@
+[0.835s] Invoking command in '/home/peko/colcon_ws/src/robina_rfid': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/peko/colcon_ws/build/robina_rfid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robina_rfid build --build-base /home/peko/colcon_ws/build/robina_rfid/build install --record /home/peko/colcon_ws/build/robina_rfid/install.log --single-version-externally-managed install_data
+[1.012s] running egg_info
+[1.024s] writing ../../build/robina_rfid/robina_rfid.egg-info/PKG-INFO
+[1.025s] writing dependency_links to ../../build/robina_rfid/robina_rfid.egg-info/dependency_links.txt
+[1.025s] writing entry points to ../../build/robina_rfid/robina_rfid.egg-info/entry_points.txt
+[1.025s] writing requirements to ../../build/robina_rfid/robina_rfid.egg-info/requires.txt
+[1.025s] writing top-level names to ../../build/robina_rfid/robina_rfid.egg-info/top_level.txt
+[1.050s] reading manifest file '../../build/robina_rfid/robina_rfid.egg-info/SOURCES.txt'
+[1.051s] adding license file 'LICENSE'
+[1.051s] writing manifest file '../../build/robina_rfid/robina_rfid.egg-info/SOURCES.txt'
+[1.051s] running build
+[1.051s] running build_py
+[1.052s] running install
+[1.057s] running install_lib
+[1.070s] running install_data
+[1.070s] running install_egg_info
+[1.083s] removing '/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid-0.0.0-py3.12.egg-info' (and everything under it)
+[1.083s] Copying ../../build/robina_rfid/robina_rfid.egg-info to /home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages/robina_rfid-0.0.0-py3.12.egg-info
+[1.084s] running install_scripts
+[1.169s] Installing big_node script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+[1.169s] Installing marker_publisher script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+[1.170s] Installing rfid_reader script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+[1.170s] Installing tag_location_processor script to /home/peko/colcon_ws/install/robina_rfid/lib/robina_rfid
+[1.170s] writing list of installed files to '/home/peko/colcon_ws/build/robina_rfid/install.log'
+[1.190s] Invoked command in '/home/peko/colcon_ws/src/robina_rfid' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/peko/colcon_ws/build/robina_rfid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/peko/colcon_ws/install/robina_rfid/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robina_rfid build --build-base /home/peko/colcon_ws/build/robina_rfid/build install --record /home/peko/colcon_ws/build/robina_rfid/install.log --single-version-externally-managed install_data

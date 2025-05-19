@@ -1,0 +1,4 @@
+source;share/robina_thesis/local_setup.bash
+source;share/robina_thesis/local_setup.dsv
+source;share/robina_thesis/local_setup.sh
+source;share/robina_thesis/local_setup.zsh

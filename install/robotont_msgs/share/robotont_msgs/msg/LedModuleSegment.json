@@ -1,0 +1,86 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "robotont_msgs/msg/LedModuleSegment",
+      "fields": [
+        {
+          "name": "idx_start",
+          "type": {
+            "type_id": 7,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "idx_end",
+          "type": {
+            "type_id": 7,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "colors",
+          "type": {
+            "type_id": 145,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": "robotont_msgs/msg/ColorRGB"
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": [
+      {
+        "type_name": "robotont_msgs/msg/ColorRGB",
+        "fields": [
+          {
+            "name": "r",
+            "type": {
+              "type_id": 3,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          },
+          {
+            "name": "g",
+            "type": {
+              "type_id": 3,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          },
+          {
+            "name": "b",
+            "type": {
+              "type_id": 3,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "type_hashes": [
+    {
+      "type_name": "robotont_msgs/msg/LedModuleSegment",
+      "hash_string": "RIHS01_9a55bf9df105f609671e3f39f9d3f613543906742133d7015df054ddc6040e53"
+    },
+    {
+      "type_name": "robotont_msgs/msg/ColorRGB",
+      "hash_string": "RIHS01_be4ee49ae22382044ef85a0931e36fd6791673b117f8fd4f8a1a5ad680f0480b"
+    }
+  ]
+}

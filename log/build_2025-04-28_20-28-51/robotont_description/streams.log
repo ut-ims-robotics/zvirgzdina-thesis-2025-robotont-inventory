@@ -1,0 +1,33 @@
+[0.383s] Invoking command in '/home/peko/colcon_ws/build/robotont_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/peko/colcon_ws/build/robotont_description -- -j16 -l16
+[0.458s] Invoked command in '/home/peko/colcon_ws/build/robotont_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/peko/colcon_ws/build/robotont_description -- -j16 -l16
+[0.460s] Invoking command in '/home/peko/colcon_ws/build/robotont_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/peko/colcon_ws/build/robotont_description
+[0.488s] -- Install configuration: ""
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/roller.stl
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/simplebody.stl
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/body.stl
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/rim.stl
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/rim.urdf.xacro
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/roller.urdf.xacro
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/robotont_base.urdf.xacro
+[0.488s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/config
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/config/robotont_description.rviz
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/launch
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/launch/display_simulated_robot.launch.py
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/package_run_dependencies/robotont_description
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/parent_prefix_path/robotont_description
+[0.489s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/ament_prefix_path.sh
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/ament_prefix_path.dsv
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/path.sh
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/path.dsv
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.bash
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.sh
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.zsh
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.dsv
+[0.490s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/package.dsv
+[0.490s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/packages/robotont_description
+[0.491s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/cmake/robotont_descriptionConfig.cmake
+[0.492s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/cmake/robotont_descriptionConfig-version.cmake
+[0.492s] -- Up-to-date: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/package.xml
+[0.555s] Invoked command in '/home/peko/colcon_ws/build/robotont_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/peko/colcon_ws/build/robotont_description

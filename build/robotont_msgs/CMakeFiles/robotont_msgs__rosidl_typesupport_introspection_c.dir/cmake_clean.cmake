@@ -1,0 +1,33 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/color_rgb__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/color_rgb__type_support.c.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/laser_scan_split__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/laser_scan_split__type_support.c.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_mode__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_mode__type_support.c.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_pixel__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_pixel__type_support.c.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_segment__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_segment__type_support.c.o.d"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/power_supply__type_support.c.o"
+  "CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/power_supply__type_support.c.o.d"
+  "librobotont_msgs__rosidl_typesupport_introspection_c.pdb"
+  "librobotont_msgs__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/color_rgb__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/color_rgb__type_support.c"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/laser_scan_split__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/laser_scan_split__type_support.c"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_mode__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_mode__type_support.c"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_pixel__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_pixel__type_support.c"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_segment__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/led_module_segment__type_support.c"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/power_supply__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/robotont_msgs/msg/detail/power_supply__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/robotont_msgs__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

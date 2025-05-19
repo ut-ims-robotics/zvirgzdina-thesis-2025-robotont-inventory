@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robotont_msgs/msg/LedModulePixel.msg
+// generated code does not contain a copyright notice
+
+#include "robotont_msgs/msg/ColorRGB.idl"
+
+module robotont_msgs {
+  module msg {
+    struct LedModulePixel {
+      uint32 idx;
+
+      robotont_msgs::msg::ColorRGB color;
+    };
+  };
+};

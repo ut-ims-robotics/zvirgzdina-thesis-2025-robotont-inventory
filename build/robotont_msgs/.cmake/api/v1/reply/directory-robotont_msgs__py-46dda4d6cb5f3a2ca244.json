@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "robotont_msgs__py",
+		"source" : "/home/peko/colcon_ws/build/robotont_msgs/robotont_msgs__py"
+	}
+}

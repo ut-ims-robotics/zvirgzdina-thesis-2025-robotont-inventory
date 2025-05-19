@@ -1,0 +1,4 @@
+source;share/laserscan_to_ranges/environment/ament_prefix_path.sh
+source;share/laserscan_to_ranges/environment/library_path.sh
+source;share/laserscan_to_ranges/environment/path.sh
+source;share/laserscan_to_ranges/environment/pythonpath.sh

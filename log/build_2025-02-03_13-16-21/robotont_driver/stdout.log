@@ -1,0 +1,33 @@
+[ 10%] Built target fake_driver_node
+[ 85%] Built target driver_node
+[100%] Built target robotont_driver
+-- Install configuration: ""
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/driver_node
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/fake_driver_node
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/driver_launch.py
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/fake_driver_launch.py
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/example_launch.py
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/example2.py
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/sermap7.posegraph
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/mapper_params_online_async.yaml
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/s7.yaml
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/parameters.yaml
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/sermap7.data
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/s7.pgm
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/package_run_dependencies/robotont_driver
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/parent_prefix_path/robotont_driver
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/ament_prefix_path.sh
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/path.sh
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/path.dsv
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.bash
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.sh
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.zsh
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/package.dsv
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/packages/robotont_driver
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/cmake/robotont_driverConfig.cmake
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/cmake/robotont_driverConfig-version.cmake
+-- Up-to-date: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/package.xml

@@ -1,0 +1,23 @@
+from launch import LaunchDescription
+from launch_ros.actions import Node
+
+def generate_launch_description():
+    return LaunchDescription([
+        Node(
+            package='rviz2',
+            executable='rviz2',
+            name='rviz2',
+            output='screen'
+        ),
+        Node(
+            package='ros2_marker_publisher',
+            executable='marker_publisher',
+            name='marker_publisher',
+            parameters=[
+                {'marker_name': 'tag1'},
+                {'position_x': -0.0002280000044265762},
+                {'position_y': 0.008624999783933163},
+                {'position_z': 0.0}
+            ]
+        )
+    ])

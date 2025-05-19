@@ -1,0 +1,3 @@
+source;share/metratec_rfid/hook/pythonpath.ps1
+source;share/metratec_rfid/hook/pythonpath.dsv
+source;share/metratec_rfid/hook/pythonpath.sh

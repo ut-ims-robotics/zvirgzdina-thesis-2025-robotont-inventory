@@ -1,0 +1,6 @@
+{
+  "package_name": "laserscan_to_ranges",
+  "non_idl_tuples": [
+    "/home/peko/colcon_ws/src/laserscan_to_ranges:msg/SimpleRanges.msg"
+  ]
+}

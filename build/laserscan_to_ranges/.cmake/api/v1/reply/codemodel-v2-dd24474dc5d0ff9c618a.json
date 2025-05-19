@@ -1,0 +1,251 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-ba5312747ca6ea0cfe8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "laserscan_to_ranges_msg__py",
+					"jsonFile" : "directory-laserscan_to_ranges_msg__py-d72a218d69423c358380.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/peko/colcon_ws/build/laserscan_to_ranges/laserscan_to_ranges_msg__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "laserscan_to_ranges",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_laserscan_to_ranges_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_laserscan_to_ranges_egg-e88f6eb13efbaa6baefc.json",
+					"name" : "ament_cmake_python_build_laserscan_to_ranges_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_laserscan_to_ranges::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_laserscan_to_ranges-f89f2b0187da65c473d7.json",
+					"name" : "ament_cmake_python_copy_laserscan_to_ranges",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges-778731ccc39aa14fa939.json",
+					"name" : "laserscan_to_ranges",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg-848898ed84f96f253277.json",
+					"name" : "laserscan_to_ranges_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__cpp-55a99cb9bbc597933765.json",
+					"name" : "laserscan_to_ranges_msg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "laserscan_to_ranges_msg__py::@092abc4228ec9ebd833d",
+					"jsonFile" : "target-laserscan_to_ranges_msg__py-6b28a79183ae2aeda4c6.json",
+					"name" : "laserscan_to_ranges_msg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_generator_c-18b4b541bf908721291f.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_generator_py-debd518f1cf18f4706b2.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_generator_type_description-d111e71a0a7c01e67b31.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_c-0c71f51e1382b1150b91.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_cpp-dc605c5e385ebf109f63.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_c-aa8886967ba6dcd5f8e9.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_cpp-4b79ea7f35f389365710.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_introspection_c-3bbcef3b1fc4d06f2a27.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_msg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_msg__rosidl_typesupport_introspection_cpp-01d0de81a0d4deb57fc8.json",
+					"name" : "laserscan_to_ranges_msg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_s__rosidl_typesupport_c-51ab0dda56d41dba626c.json",
+					"name" : "laserscan_to_ranges_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_s__rosidl_typesupport_fastrtps_c-e092c3f21694e456a390.json",
+					"name" : "laserscan_to_ranges_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_s__rosidl_typesupport_introspection_c-d9e47cc95a705f417a6e.json",
+					"name" : "laserscan_to_ranges_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laserscan_to_ranges_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laserscan_to_ranges_uninstall-3cfc71fbead5383ae537.json",
+					"name" : "laserscan_to_ranges_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-7cc14f58f22d264809d3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/peko/colcon_ws/build/laserscan_to_ranges",
+		"source" : "/home/peko/colcon_ws/src/laserscan_to_ranges"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

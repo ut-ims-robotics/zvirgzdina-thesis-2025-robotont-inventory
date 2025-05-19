@@ -1,0 +1,12 @@
+msg/ColorRGB.idl
+msg/ColorRGB.msg
+msg/LaserScanSplit.idl
+msg/LaserScanSplit.msg
+msg/LedModuleMode.idl
+msg/LedModuleMode.msg
+msg/LedModulePixel.idl
+msg/LedModulePixel.msg
+msg/LedModuleSegment.idl
+msg/LedModuleSegment.msg
+msg/PowerSupply.idl
+msg/PowerSupply.msg

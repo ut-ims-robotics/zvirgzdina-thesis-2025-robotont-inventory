@@ -1,0 +1,59 @@
+[0.316s] Invoking command in '/home/peko/colcon_ws/build/robotont_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/peko/colcon_ws/src/robotont/robotont_description -DCMAKE_INSTALL_PREFIX=/home/peko/colcon_ws/install/robotont_description
+[0.377s] -- The C compiler identification is GNU 13.3.0
+[0.429s] -- The CXX compiler identification is GNU 13.3.0
+[0.444s] -- Detecting C compiler ABI info
+[0.541s] -- Detecting C compiler ABI info - done
+[0.554s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.554s] -- Detecting C compile features
+[0.554s] -- Detecting C compile features - done
+[0.564s] -- Detecting CXX compiler ABI info
+[0.670s] -- Detecting CXX compiler ABI info - done
+[0.682s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.683s] -- Detecting CXX compile features
+[0.683s] -- Detecting CXX compile features - done
+[0.688s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.850s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.976s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.125s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.132s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.132s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.134s] -- Added test 'lint_cmake' to check CMake code style
+[1.135s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.139s] -- Added test 'xmllint' to check XML markup files
+[1.141s] -- Configuring done (0.8s)
+[1.144s] -- Generating done (0.0s)
+[1.146s] -- Build files have been written to: /home/peko/colcon_ws/build/robotont_description
+[1.151s] Invoked command in '/home/peko/colcon_ws/build/robotont_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/peko/colcon_ws/src/robotont/robotont_description -DCMAKE_INSTALL_PREFIX=/home/peko/colcon_ws/install/robotont_description
+[1.152s] Invoking command in '/home/peko/colcon_ws/build/robotont_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/peko/colcon_ws/build/robotont_description -- -j16 -l16
+[1.192s] Invoked command in '/home/peko/colcon_ws/build/robotont_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/peko/colcon_ws/build/robotont_description -- -j16 -l16
+[1.204s] Invoking command in '/home/peko/colcon_ws/build/robotont_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/peko/colcon_ws/build/robotont_description
+[1.213s] -- Install configuration: ""
+[1.213s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes
+[1.213s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/roller.stl
+[1.214s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/simplebody.stl
+[1.214s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/body.stl
+[1.218s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/meshes/rim.stl
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/rim.urdf.xacro
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/roller.urdf.xacro
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/urdf/robotont_base.urdf.xacro
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/config
+[1.220s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/config/robotont_description.rviz
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/launch
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/launch/display_simulated_robot.launch.py
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/package_run_dependencies/robotont_description
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/parent_prefix_path/robotont_description
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/ament_prefix_path.sh
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/ament_prefix_path.dsv
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/path.sh
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/environment/path.dsv
+[1.221s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.bash
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.sh
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.zsh
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/local_setup.dsv
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/package.dsv
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/ament_index/resource_index/packages/robotont_description
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/cmake/robotont_descriptionConfig.cmake
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/cmake/robotont_descriptionConfig-version.cmake
+[1.222s] -- Installing: /home/peko/colcon_ws/install/robotont_description/share/robotont_description/package.xml
+[1.224s] Invoked command in '/home/peko/colcon_ws/build/robotont_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/peko/colcon_ws/install/robina_rfid:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/peko/colcon_ws/build/robotont_description

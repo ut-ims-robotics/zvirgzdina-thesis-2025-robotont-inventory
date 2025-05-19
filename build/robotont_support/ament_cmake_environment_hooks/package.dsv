@@ -1,0 +1,4 @@
+source;share/robotont_support/local_setup.bash
+source;share/robotont_support/local_setup.dsv
+source;share/robotont_support/local_setup.sh
+source;share/robotont_support/local_setup.zsh

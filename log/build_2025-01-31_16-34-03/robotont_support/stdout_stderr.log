@@ -1,0 +1,35 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/peko/colcon_ws/build/robotont_support
+-- Install configuration: ""
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/launch
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/launch/robotont_bringup.launch.py
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/package_run_dependencies/robotont_support
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/parent_prefix_path/robotont_support
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/ament_prefix_path.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/ament_prefix_path.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/path.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/environment/path.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.bash
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.zsh
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/local_setup.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/package.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/ament_index/resource_index/packages/robotont_support
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/cmake/robotont_supportConfig.cmake
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/cmake/robotont_supportConfig-version.cmake
+-- Installing: /home/peko/colcon_ws/install/robotont_support/share/robotont_support/package.xml

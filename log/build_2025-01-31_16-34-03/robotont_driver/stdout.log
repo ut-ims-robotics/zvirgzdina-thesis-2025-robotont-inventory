@@ -1,0 +1,96 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found io_context: 1.2.0 (/opt/ros/jazzy/share/io_context/cmake)
+-- Found asio_cmake_module: 1.2.0 (/opt/ros/jazzy/share/asio_cmake_module/cmake)
+-- Found ASIO: /usr/include  
+-- Found pluginlib: 5.4.2 (/opt/ros/jazzy/share/pluginlib/cmake)
+-- Found serial_driver: 1.2.0 (/opt/ros/jazzy/share/serial_driver/cmake)
+-- Found geometry_msgs: 5.3.5 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+-- Found nav_msgs: 5.3.5 (/opt/ros/jazzy/share/nav_msgs/cmake)
+-- Found ament_cmake_auto: 2.5.2 (/opt/ros/jazzy/share/ament_cmake_auto/cmake)
+-- Found tf2_geometry_msgs: 0.36.4 (/opt/ros/jazzy/share/tf2_geometry_msgs/cmake)
+-- Found eigen3_cmake_module: 0.3.0 (/opt/ros/jazzy/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found robotont_msgs: 0.2.0 (/home/peko/colcon_ws/install/robotont_msgs/share/robotont_msgs/cmake)
+-- Found sensor_msgs: 5.3.5 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/peko/colcon_ws/build/robotont_driver
+[ 30%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/plugin_bat_state.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_odom.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/hardware.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/plugin_base.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/plugin_led_module.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/driver.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/driver_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/plugin_motors.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_led_module.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/plugin_odom.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_motors.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/robotont_driver.dir/src/driver_node.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/driver.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/hardware.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/fake_driver_node.dir/src/fake_driver_node.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_base.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/driver_node.dir/src/plugin_bat_state.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable fake_driver_node[0m
+[ 90%] Built target fake_driver_node
+[ 95%] [32m[1mLinking CXX shared library librobotont_driver.so[0m
+[100%] [32m[1mLinking CXX executable driver_node[0m
+[100%] Built target robotont_driver
+[100%] Built target driver_node
+-- Install configuration: ""
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/driver_node
+-- Set non-toolchain portion of runtime path of "/home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/driver_node" to ""
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/fake_driver_node
+-- Set non-toolchain portion of runtime path of "/home/peko/colcon_ws/install/robotont_driver/lib/robotont_driver/fake_driver_node" to ""
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/driver_launch.py
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/fake_driver_launch.py
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/example_launch.py
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver//launch/example2.py
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/sermap7.posegraph
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/mapper_params_online_async.yaml
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/s7.yaml
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/parameters.yaml
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/sermap7.data
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/config/s7.pgm
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/package_run_dependencies/robotont_driver
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/parent_prefix_path/robotont_driver
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/ament_prefix_path.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/ament_prefix_path.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/path.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/environment/path.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.bash
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.sh
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.zsh
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/local_setup.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/package.dsv
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/ament_index/resource_index/packages/robotont_driver
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/cmake/robotont_driverConfig.cmake
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/cmake/robotont_driverConfig-version.cmake
+-- Installing: /home/peko/colcon_ws/install/robotont_driver/share/robotont_driver/package.xml
