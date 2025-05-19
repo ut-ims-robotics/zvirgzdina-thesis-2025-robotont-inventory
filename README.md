@@ -2,8 +2,9 @@
 # Inventory performing robotont 
 
 original repository can be found here:
+
 https://github.com/RobinaZv/UT_Library_Robotont_Robina-thesis-2025 
-Thesis by Robina Zvirgzdina on controling robotont to perform inventory in the Univeristy of Tartu library sing using a rfid reader, ROS2 platform and a height adjustment system. 
+This thesis works on creating a perform for performing inventory in the Univeristy of Tartu library sing using a rfid reader, ROS2, robotont and a height adjustment system. 
  
 ## How to get started
 
